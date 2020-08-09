@@ -9,8 +9,6 @@
 
 </h1>
 
-
-
 ## 💻 Project
 Proffy is a platform to connect students and teachers, it is possible to filter teachers with availability on each day or different time.
 
@@ -35,6 +33,12 @@ The project was developed with these technologies:
 
 ## ⚙ Run The API (Backend)
 
+To run the application you will need:
+* [Git](https://git-scm.com)
+* [Node](https://nodejs.org/)
+* [Yarn](https://yarnpkg.com/) 
+
+Now follow the steps:
 ```bash
 # to clone the repository
 $ https://github.com/RodzAlves/proffy-api.git
